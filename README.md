@@ -1,5 +1,5 @@
 # webcam_mplayer
-webcam display in software environment mplayer\
+webcam display in software environment mplayer
 
 You can use the mplayer software with this little script instead of the softwares yourself and display your webcam on it and change the size to yourself. It is very good for use in videocasts.
 
@@ -23,3 +23,12 @@ centos:
 sudo yum install mplayer
 
 
+[MySite link](http://kiahamedi.ir/)
+
+[Youtube link](https://www.youtube.com/channel/UCT-rXauwXiJ1yGrZNXzLrWQ)
+
+[Twitter link](https://twitter.com/kia_arta97)
+
+[Instagram link](https://www.instagram.com/kia.hamediii/)
+
+[Telegram link](https://telegram.me/happy722)
